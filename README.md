@@ -1,0 +1,2 @@
+# mogurakun.github.io
+Mogurakun
